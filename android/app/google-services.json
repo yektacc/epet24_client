@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371528628359",
+    "firebase_url": "https://epet724.firebaseio.com",
+    "project_id": "epet724",
+    "storage_bucket": "epet724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371528628359:android:132c0cbca9fb69ba3da022",
+        "android_client_info": {
+          "package_name": "com.epet24store.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371528628359-clqe88b5i80jsemtm4qhdt28o2a3sfm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBndQA0Fq_laRUbUT9pJXbRjVs8i3Me-Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371528628359-clqe88b5i80jsemtm4qhdt28o2a3sfm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
